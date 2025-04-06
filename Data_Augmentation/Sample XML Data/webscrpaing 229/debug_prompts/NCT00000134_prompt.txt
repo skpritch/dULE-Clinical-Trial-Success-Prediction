@@ -1,0 +1,72 @@
+Please classify this clinical trial as a success (1), failure (0), or indeterminate (-1) based on the following classification system:
+
+
+Classification System:
+Success (1):
+- Completed, Early positive outcome
+- Completed, Positive outcome/primary endpoint(s) met
+
+Failure (0):
+- Terminated, Lack of efficacy
+- Completed, Negative outcome/primary endpoint(s) not met
+- Terminated, Safety/adverse effects
+- Terminated, Poor enrollment
+
+Indeterminate (-1):
+- Completed, Outcome indeterminate
+- Completed, Outcome unknown
+- Terminated, Business decision - Drug strategy shift
+- Terminated, Business decision - Other
+- Terminated, Business decision - Pipeline reprioritization
+- Terminated, Lack of funding
+- Terminated, Other
+- Terminated, Planned but never initiated
+- Terminated, Unknown
+
+
+Here is the trial information:
+
+NCT ID: NCT00000134
+Title: Studies of the Ocular Complications of AIDS (SOCA)--Cytomegalovirus Retinitis Retreatment Trial (CRRT)
+Overall Status: COMPLETED
+Phases: PHASE3
+Enrollment: 279 (ACTUAL)
+
+=== DETAILED OUTCOME MEASURES ===
+
+1. PRIMARY OUTCOME: Morbidity
+   Description: To determine the best therapeutic regimen, using currently approved drugs, for treatment of relapsed cytomegalovirus (CMV) retinitis.
+   Time Frame: Patients will be seen at baseline, monthly for six months, and then every three months until death or termination of the trial
+   Unit of Measure: participants
+   Results:
+      Results:
+        Intravenous Foscarnet: 88
+        Intravenous Ganciclovir: 93
+        Combination Therapy: 93
+
+=== ADVERSE EVENTS SUMMARY ===
+Time Frame: 1 year, 4 months
+
+Group: Intravenous Foscarnet
+  Serious Adverse Events: 32/88 participants (36.4%)
+  Other Adverse Events: 7/88 participants (8.0%)
+
+Group: Intravenous Ganciclovir
+  Serious Adverse Events: 41/93 participants (44.1%)
+  Other Adverse Events: 7/93 participants (7.5%)
+
+Group: Combination Therapy
+  Serious Adverse Events: 51/93 participants (54.8%)
+  Other Adverse Events: 10/93 participants (10.8%)
+
+Top Serious Adverse Events:
+  Neutropenia (Blood and lymphatic system disorders):
+    Intravenous Foscarnet: 32/88 (36.4%)
+    Intravenous Ganciclovir: 41/93 (44.1%)
+    Combination Therapy: 51/93 (54.8%)
+  Thrombocytopenia (Blood and lymphatic system disorders):
+    Intravenous Foscarnet: 14/88 (15.9%)
+    Intravenous Ganciclovir: 8/93 (8.6%)
+    Combination Therapy: 15/93 (16.1%)
+
+Based on the above detailed information, especially focusing on the statistical significance of outcomes, p-values, confidence intervals, and any adverse events, classify this trial as 1 (success), 0 (failure), or -1 (indeterminate). Return ONLY the classification number.

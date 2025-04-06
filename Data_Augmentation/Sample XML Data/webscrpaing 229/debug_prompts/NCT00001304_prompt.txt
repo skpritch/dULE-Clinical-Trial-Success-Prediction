@@ -1,0 +1,111 @@
+Please classify this clinical trial as a success (1), failure (0), or indeterminate (-1) based on the following classification system:
+
+
+Classification System:
+Success (1):
+- Completed, Early positive outcome
+- Completed, Positive outcome/primary endpoint(s) met
+
+Failure (0):
+- Terminated, Lack of efficacy
+- Completed, Negative outcome/primary endpoint(s) not met
+- Terminated, Safety/adverse effects
+- Terminated, Poor enrollment
+
+Indeterminate (-1):
+- Completed, Outcome indeterminate
+- Completed, Outcome unknown
+- Terminated, Business decision - Drug strategy shift
+- Terminated, Business decision - Other
+- Terminated, Business decision - Pipeline reprioritization
+- Terminated, Lack of funding
+- Terminated, Other
+- Terminated, Planned but never initiated
+- Terminated, Unknown
+
+
+Here is the trial information:
+
+NCT ID: NCT00001304
+Title: Treatment of Hypoparathyroidism With Synthetic Human Parathyroid Hormone 1-34
+Overall Status: COMPLETED
+Phases: PHASE2
+Enrollment: 27 (ACTUAL)
+
+=== DETAILED OUTCOME MEASURES ===
+
+1. SECONDARY OUTCOME: Serum 1,25-hydroxyvitamin D Level
+   Description: Measurements were taken 1 hour before the morning dose of PTH or, calcitriol and calcium; UOM = pg/ml. Measurements were obtained on three successive days (three separate measures) semiannually at the NIH CC for each protocol subject. The average data are the average of these three semi-annual data points for each subject which are then averaged across all the semi-annual means for all subjects within each arm over the three years of study.
+   Time Frame: 3 years
+   Unit of Measure: pg/ml
+   Results:
+      Results:
+        Calcitriol and Calcium: 40
+        PTH 1-34: 43
+
+2. SECONDARY OUTCOME: Serum 25-hydroxyvitamin D Level
+   Description: Measurements were taken 1 hour before the morning dose of PTH or, calcitriol and calcium; UOM = ng/ml. Measurements were obtained on three successive days (three separate measures) semiannually at the NIH CC for each protocol subject. The average data are the average of these three semi-annual data points for each subject which are then averaged across all the semi-annual means for all subjects within each arm over the three years of study.
+   Time Frame: 3 years
+   Unit of Measure: ng/ml
+   Results:
+      Results:
+        Calcitriol and Calcium: 31
+        PTH 1-34: 28
+
+3. PRIMARY OUTCOME: Serum Calcium Level
+   Description: Measurements were taken 1 hour before the morning dose of PTH or, calcitriol and calcium; UOM = mmol/liter, normal range 2.05-2.5. Measurements were obtained on three successive days (three separate measures) semiannually at the NIH CC for each protocol subject. The average data are the average of these three semi-annual data points for each subject which are then averaged across all the semi-annual means for all subjects within each arm over the three years of study.
+   Time Frame: 3 years
+   Unit of Measure: mmol/liter
+   Results:
+      Results:
+        Calcitriol and Calcium: 2
+        PTH 1-34: 1.92
+
+4. SECONDARY OUTCOME: Serum Magnesium Level
+   Description: Measurements were taken 1 hour before the morning dose of PTH or, calcitriol and calcium; UOM = mmol/liter, normal range 0.65-1.05. Measurements were obtained on three successive days (three separate measures) semiannually at the NIH CC for each protocol subject. The average data are the average of these three semi-annual data points for each subject which are then averaged across all the semi-annual means for all subjects within each arm over the three years of study.
+   Time Frame: 3 years
+   Unit of Measure: mmol/liter
+   Results:
+      Results:
+        Calcitriol and Calcium: 0.75
+        PTH 1-34: 0.73
+
+5. SECONDARY OUTCOME: Serum Phosphorus Level
+   Description: Measurements were taken 1 hour before the morning dose of PTH or, calcitriol and calcium; UOM = mmol/liter, normal range 0.7-1.4. Measurements were obtained on three successive days (three separate measures) semiannually at the NIH CC for each protocol subject. The average data are the average of these three semi-annual data points for each subject which are then averaged across all the semi-annual means for all subjects within each arm over the three years of study.
+   Time Frame: 3 years
+   Unit of Measure: mmol/liter
+   Results:
+      Results:
+        Calcitriol and Calcium: 4.5
+        PTH 1-34: 4.6
+
+6. SECONDARY OUTCOME: Urinary Creatinine Clearance
+   Description: Measurements were taken 1 hour before the morning dose of PTH or, calcitriol and calcium; UOM = ml/min, normal range 90-125. Measurements were obtained on three successive days (three separate measures) semiannually at the NIH CC for each protocol subject. The average data are the average of these three semi-annual data points for each subject which are then averaged across all the semi-annual means for all subjects within each arm over the three years of study.
+   Time Frame: 3 years
+   Unit of Measure: ml/min
+   Results:
+      Results:
+        Calcitriol and Calcium: 84
+        PTH 1-34: 80
+
+7. PRIMARY OUTCOME: Urine Calcium Excretion Level
+   Description: Measurements were taken1 hour before the morning dose of PTH or, calcitriol and calcium; UOM = mmol/24 h, normal range 1.25-6.25. Measurements were obtained on three successive days (three separate measures) semiannually at the NIH CC for each protocol subject. The average data are the average of these three semi-annual data points for each subject which are then averaged across all the semi-annual means for all subjects within each arm over the three years of study.
+   Time Frame: 3 years
+   Unit of Measure: mmol/24 h
+   Results:
+      Results:
+        Calcitriol and Calcium: 8.2
+        PTH 1-34: 5.8
+
+=== ADVERSE EVENTS SUMMARY ===
+Time Frame: 3 years
+
+Group: PTH 1-34
+  Serious Adverse Events: 0/14 participants (0.0%)
+  Other Adverse Events: 0/14 participants (0.0%)
+
+Group: Calcitriol & Calcium
+  Serious Adverse Events: 0/13 participants (0.0%)
+  Other Adverse Events: 0/13 participants (0.0%)
+
+Based on the above detailed information, especially focusing on the statistical significance of outcomes, p-values, confidence intervals, and any adverse events, classify this trial as 1 (success), 0 (failure), or -1 (indeterminate). Return ONLY the classification number.

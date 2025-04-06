@@ -1,0 +1,22 @@
+name: HINT_env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+  - apple
+dependencies:
+  - python=3.9
+  - rdkit
+  - jupyterlab
+  - pytorch
+  - ipywidgets
+  - tensorflow-deps
+  - pip
+  - pip:
+      - tqdm
+      - scikit-learn
+      - seaborn
+      - icd10-cm
+      - tensorflow-macos
+      - tensorflow-estimator
+      - pytorch-pretrained-bert

@@ -1,0 +1,91 @@
+Please classify this clinical trial as a success (1), failure (0), or indeterminate (-1) based on the following classification system:
+
+
+Classification System:
+Success (1):
+- Completed, Early positive outcome
+- Completed, Positive outcome/primary endpoint(s) met
+
+Failure (0):
+- Terminated, Lack of efficacy
+- Completed, Negative outcome/primary endpoint(s) not met
+- Terminated, Safety/adverse effects
+- Terminated, Poor enrollment
+
+Indeterminate (-1):
+- Completed, Outcome indeterminate
+- Completed, Outcome unknown
+- Terminated, Business decision - Drug strategy shift
+- Terminated, Business decision - Other
+- Terminated, Business decision - Pipeline reprioritization
+- Terminated, Lack of funding
+- Terminated, Other
+- Terminated, Planned but never initiated
+- Terminated, Unknown
+
+
+Here is the trial information:
+
+NCT ID: NCT06768658
+Title: A Study of TAK-951 in Participants With Cyclic Vomiting Syndrome (CVS)
+Overall Status: TERMINATED
+Phases: PHASE1
+Why Stopped: Due to business reasons prior to first subject dosed.
+Enrollment: 1 (ACTUAL)
+
+=== DETAILED OUTCOME MEASURES ===
+
+1. PRIMARY OUTCOME: Number of Participants Who Experience at Least One Treatment-emergent Adverse Event (TEAE)
+   Description: A TEAE was defined as an adverse event (AE) with an onset that occurs after receiving study drug. An AE was defined as any untoward medical occurrence in a clinical investigation participant who has signed informed consent to participate in a study; it does not necessarily have to have a causal relationship with the treatment. An AE could therefore be any unfavorable and unintended sign (example, a clinically significant abnormal vital sign or laboratory finding), symptom, or disease temporally associated with the use of a drug, whether or not it was considered related to the drug.
+   Time Frame: Up to end of study (up to 44 weeks)
+   Unit of Measure: 
+
+2. SECONDARY OUTCOME: Number of Participants With Total Response
+   Description: Total response was defined as no emesis, no nausea (verbal rating scale \[VRS\] "none") and no need for rescue therapy before each time point. This was planned to be scored using a self-reported, 4-point VRS based on verbal responses of the participants to questions, where Score 0 - none; Score 1 - mild; Score 2 - moderate; and Score 3 - severe. Higher scores mean a worse outcome. Emesis was defined as vomiting (the forceful discharge of even the smallest amount of stomach contents) or retching (the same muscular movements as vomiting but without expulsion of stomach contents). Nausea was defined as the desire to vomit without the presence of expulsive muscular movements.
+   Time Frame: Within 2, 4, and 8 hours post-dose
+   Unit of Measure: 
+
+3. SECONDARY OUTCOME: Number of Participants With Absence of Emesis
+   Description: Absence of emesis was defined as no emesis and no need for rescue medication before each time point. Emesis was defined as vomiting (the forceful discharge of even the smallest amount of stomach contents) or retching (the same muscular movements as vomiting but without expulsion of stomach contents).
+   Time Frame: Within 2, 4, and 8 hours post-dose
+   Unit of Measure: 
+
+4. SECONDARY OUTCOME: Number of Participants With Absence of Significant Nausea
+   Description: Significant nausea was defined as a VRS greater than or equal to (\>=) moderate. Absence of nausea was defined as VRS of "none" or "mild" and no need for rescue medication before the evaluation time point. This was planned to be scored using a self-reported, 4-point VRS based on verbal responses of the participants to questions, where Score 0 - none; Score 1 - mild; Score 2 - moderate; and Score 3 - severe. Higher scores mean a worse outcome. Nausea was defined as the desire to vomit without the presence of expulsive muscular movements.
+   Time Frame: Within 2, 4, and 8 hours post-dose
+   Unit of Measure: 
+
+5. SECONDARY OUTCOME: Peak Nausea VRS Score in All Participants
+   Description: Nausea was defined as the desire to vomit without the presence of expulsive muscular movements. This was planned to be scored using a self-reported, 4-point VRS based on verbal responses of the participants to questions, where Score 0 - none; Score 1 - mild; Score 2 - moderate; and Score 3 - severe. Higher scores mean a worse outcome.
+   Time Frame: At 0, 1 and 2 hours post-dose
+   Unit of Measure: 
+
+6. SECONDARY OUTCOME: Peak Nausea VRS Score in Participants Who Did Not Receive the Rescue Medication Before the Evaluation Timepoint
+   Description: Nausea was defined as the desire to vomit without the presence of expulsive muscular movements. This was planned to be scored using a self-reported, 4-point VRS based on verbal responses of the participants to questions, where Score 0 - none; Score 1 - mild; Score 2 - moderate; and Score 3 - severe. Higher scores mean a worse outcome.
+   Time Frame: At 4 and 8 hours post-dose
+   Unit of Measure: 
+
+7. SECONDARY OUTCOME: Change From Baseline in Nausea VRS Score in All Participants
+   Description: Nausea was defined as the desire to vomit without the presence of expulsive muscular movements. This was planned to be scored using a self-reported, 4-point VRS based on verbal responses of the participants to questions, where Score 0 - none; Score 1 - mild; Score 2 - moderate; and Score 3 - severe. Higher scores mean a worse outcome.
+   Time Frame: At 1 and 2 hours post-dose
+   Unit of Measure: 
+
+8. SECONDARY OUTCOME: Change From Baseline in Nausea VRS Score in Participants Who Did Not Receive the Rescue Medication Before the Evaluation Timepoint
+   Description: Nausea was defined as the desire to vomit without the presence of expulsive muscular movements. This was planned to be scored using a self-reported, 4-point VRS based on verbal responses of the participants to questions, where Score 0 - none; Score 1 - mild; Score 2 - moderate; and Score 3 - severe. Higher scores mean a worse outcome.
+   Time Frame: At 4 and 8 hours post-dose
+   Unit of Measure: 
+
+9. SECONDARY OUTCOME: Number of Participants With Anti-drug Antibody (ADA)
+   Description: The ADA assessment was planned to be categorized as ADA negative, ADA positive and with low or high ADA titers. ADA negative was defined as participants who did not have a confirmed positive ADA status in any postbaseline assessment, and ADA positive as participants who had confirmed positive ADA status in any postbaseline assessment. High ADA titer was defined as participants who had at least 1 postbaseline ADA titer greater than (\>) a cutoff planned to be determined based on the actual titer data, and Low ADA titer as participants whose postbaseline ADA titer numbers were all less than or equal to (\<=) a cutoff planned to be determined based on the actual titer data.
+   Time Frame: Up to end of study (up to 44 weeks)
+   Unit of Measure: 
+
+=== ADVERSE EVENTS SUMMARY ===
+Time Frame: Adverse Events (AEs) were not collected in this study.
+Description: This study was terminated early and only enrolled one participant that received no treatment. Due to concerns that the participant would be at risk of being re-identified and received no treatment, no death, serious adverse events (SAEs) and non-serious AE data were evaluated and collected to be reported in this study.
+
+Group: Placebo
+
+Group: TAK-951 4 mg
+
+Based on the above detailed information, especially focusing on the statistical significance of outcomes, p-values, confidence intervals, and any adverse events, classify this trial as 1 (success), 0 (failure), or -1 (indeterminate). Return ONLY the classification number.

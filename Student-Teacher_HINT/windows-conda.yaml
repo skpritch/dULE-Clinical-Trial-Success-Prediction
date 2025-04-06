@@ -1,0 +1,20 @@
+name: hint
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - rdkit
+  - jupyterlab
+  - pytorch
+  - ipywidgets
+  - pip
+  - pip:
+      - tqdm
+      - scikit-learn
+      - seaborn
+      - icd10-cm
+      - tensorflow
+      - tensorflow-estimator
+      - pytorch-pretrained-bert

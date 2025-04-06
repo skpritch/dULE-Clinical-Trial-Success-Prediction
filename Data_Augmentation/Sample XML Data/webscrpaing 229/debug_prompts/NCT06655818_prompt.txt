@@ -1,0 +1,546 @@
+Please classify this clinical trial as a success (1), failure (0), or indeterminate (-1) based on the following classification system:
+
+
+Classification System:
+Success (1):
+- Completed, Early positive outcome
+- Completed, Positive outcome/primary endpoint(s) met
+
+Failure (0):
+- Terminated, Lack of efficacy
+- Completed, Negative outcome/primary endpoint(s) not met
+- Terminated, Safety/adverse effects
+- Terminated, Poor enrollment
+
+Indeterminate (-1):
+- Completed, Outcome indeterminate
+- Completed, Outcome unknown
+- Terminated, Business decision - Drug strategy shift
+- Terminated, Business decision - Other
+- Terminated, Business decision - Pipeline reprioritization
+- Terminated, Lack of funding
+- Terminated, Other
+- Terminated, Planned but never initiated
+- Terminated, Unknown
+
+
+Here is the trial information:
+
+NCT ID: NCT06655818
+Title: Sub-study of Belantamab Mafodotin (GSK2857916) as Monotherapy and in Combination With Dostarlimab (GSK4057190) in Participants With RRMM
+Overall Status: TERMINATED
+Phases: PHASE1, PHASE2
+Why Stopped: The study was terminated due to lack of efficacy
+Enrollment: 4 (ACTUAL)
+
+=== DETAILED OUTCOME MEASURES ===
+
+1. PRIMARY OUTCOME: DE Phase: Number of Participants With Dose Limiting Toxicities (DLT)
+   Description: Criteria for dose-limiting toxicity (DLT) included hematologic indicators such as Grade 3-5 febrile neutropenia and thrombocytopenia with bleeding. Non-hematologic criteria, excluding corneal toxicity, comprise Grade 3-5 toxicities, with exceptions for manageable nausea, vomiting, or diarrhea, controlled Grade 3 hypertension, and events linked to disease progression. Tumor lysis syndrome (TLS) of Grade 3 or 4, successfully managed within 7 days without end-organ damage, is considered. Corneal toxicity, assessed by the GSK corneal grading scale at Grade 4, is a DLT. Other organ-specific toxicities, notably liver toxicity meeting GSK stopping criteria, also qualify as DLTs. Severity was graded using National Cancer Institute - Common Terminology Criteria for Adverse Events (version 5.0).
+   Time Frame: Up to 21 days
+   Unit of Measure: Participants
+   Results:
+      Results:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+
+2. PRIMARY OUTCOME: DE Phase: Number of Participants With Adverse Events (AEs)
+   Description: An AE is any untoward medical occurrence in a clinical investigation participant, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product. AEs were coded using the Medical Dictionary for Regulatory Activities (MedDRA) coding system.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: Participants
+   Results:
+      Results:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 4
+
+3. PRIMARY OUTCOME: DE Phase: Number of Participants With Worst-Case Hematology Results by Maximum Grade Increase Post - Baseline Relative to Baseline
+   Description: Blood samples were collected for the analysis of following hematology parameters: eosinophils, anemia, hemoglobin increased, lymphocyte count decreased, lymphocyte count increased, neutrophil count decreased, platelet count decreased, leukocytosis and white blood cell decreased. Grade 1 (G1): mild; Grade 2 (G2): moderate; Grade 3 (G3): severe; Grade 4 (G4) life-threatening or disabling. Higher grade indicates greater severity and an increase in CTCAE grade was defined relative to the Baseline grade. Any worst-case post baseline increase to G1, G2, G3, and G4 are presented. The laboratory parameters were graded according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.
+   Time Frame: Baseline (Day 1) and up to 153 weeks
+   Unit of Measure: Participants
+   Results:
+      Eosinophilia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Eosinophilia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Eosinophilia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Eosinophilia, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Anemia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Anemia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Anemia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Anemia, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hemoglobin increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hemoglobin increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Hemoglobin increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hemoglobin increased, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Lymphocyte count decreased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Lymphocyte count decreased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Lymphocyte count decreased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Lymphocyte count decreased, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 2
+      Lymphocyte count increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Lymphocyte count increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Lymphocyte count increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Lymphocyte count increased, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Neutrophil count decreased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Neutrophil count decreased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Neutrophil count decreased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Neutrophil count decreased, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Platelet count decreased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Platelet count decreased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Platelet count decreased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 2
+      Platelet count decreased, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Leukocytosis, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Leukocytosis, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Leukocytosis, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Leukocytosis, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      White blood cell decreased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      White blood cell decreased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      White blood cell decreased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      White blood cell decreased, Increase to Grade 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+
+4. PRIMARY OUTCOME: DE Phase: Number of Participants With Worst-Case Chemistry Results by Maximum Grade Increase Post - Baseline Relative to Baseline
+   Description: Blood samples were collected for the analysis of following chemistry parameters: Hypoglycemia, hypoalbuminemia, alkaline phosphatase (ALP) increased, alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, blood bilirubin increased, creatine kinase (CPK) increased, creatinine increased, gamma glutamyl transferase (GGT) increased, hyperkalemia, blood lactate dehydrogenase (LDH) increased, hypermagnesemia, hypomagnesemia, hypernatremia, hypercalcemia, hypocalcemia and chronic kidney disease. G1: mild; G2: moderate; G3: severe. Higher grade indicates greater severity and an increase in CTCAE grade was defined relative to the Baseline grade. Any worst-case post baseline increase to G1, G2 and G3 are presented. The laboratory parameters were graded according to CTCAE version 5.
+   Time Frame: Baseline (Day 1) and up to 153 weeks
+   Unit of Measure: Participants
+   Results:
+      Hypoglycemia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypoglycemia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypoglycemia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypoalbuminemia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypoalbuminemia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 2
+      Hypoalbuminemia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Alkaline phosphatase increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Alkaline phosphatase increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Alkaline phosphatase increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Alanine aminotransferase increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 2
+      Alanine aminotransferase increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Alanine aminotransferase increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Aspartate aminotransferase increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 2
+      Aspartate aminotransferase increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Aspartate aminotransferase increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Blood bilirubin increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Blood bilirubin increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Blood bilirubin increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      CPK increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      CPK increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      CPK increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Creatinine increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 2
+      Creatinine increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Creatinine increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      GGT increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      GGT increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      GGT increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hyperkalemia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hyperkalemia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hyperkalemia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Blood lactate dehydrogenase increased, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 4
+      Blood lactate dehydrogenase increased, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Blood lactate dehydrogenase increased, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypermagnesemia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Hypermagnesemia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypermagnesemia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypomagnesemia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypomagnesemia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypomagnesemia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypernatremia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypernatremia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypernatremia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypercalcemia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Hypercalcemia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypercalcemia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypocalcemia, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypocalcemia, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Hypocalcemia, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Chronic Kidney Disease, Increase to Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Chronic Kidney Disease, Increase to Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Chronic Kidney Disease, Increase to Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+
+5. PRIMARY OUTCOME: CE Phase: Overall Response Rate (ORR)
+   Description: Overall Response Rate (ORR) was defined as the percentage of participants with a confirmed PR or better as the best overall response (i.e., Partial Response \[PR\], Very Good Partial Response \[VGPR\], Complete Response \[CR\], and stringent Complete Response \[sCR\]), as assessed by the investigator per international myeloma working group (IMWG) (2016). CR defined as negative immunofixation of serum and urine AND disappearance of any soft tissue plasmacytomas AND \<5% plasmacytomas in the bone marrow; sCR defined as CR as above PLUS normal serum free light-chain (FLC) assay ratio and absence of clonal cells in bone marrow by immunohistochemistry or immunofluorescence; VGPR defined as serum and urine M-component detectable by immunofixation but not on electrophoresis OR ≥ 90% reduction in serum M-component plus urine M-component \<100 mg/24 h; PR defined as ≥50% reduction of serum M-protein and reduction in 24-hour urinary M-protein by ≥90% or to \<200 mg/24 h.
+   Time Frame: Up to 26 weeks
+   Unit of Measure: 
+
+6. SECONDARY OUTCOME: DE Phase: Overall Response Rate (ORR)
+   Description: Overall Response Rate (ORR) was defined as the percentage of participants with a confirmed PR or better as the best overall response (i.e., Partial Response \[PR\], Very Good Partial Response \[VGPR\], Complete Response \[CR\], and stringent Complete Response \[sCR\]), as assessed by the investigator per international myeloma working group (IMWG) (2016). CR defined as negative immunofixation of serum and urine AND disappearance of any soft tissue plasmacytomas AND \<5% plasmacytomas in the bone marrow; sCR defined as CR as above PLUS normal serum free light-chain (FLC) assay ratio and absence of clonal cells in bone marrow by immunohistochemistry or immunofluorescence; VGPR defined as serum and urine M-component detectable by immunofixation but not on electrophoresis OR ≥ 90% reduction in serum M-component plus urine M-component \<100 mg/24 h; PR defined as ≥50% reduction of serum M-protein and reduction in 24-hour urinary M-protein by ≥90% or to \<200 mg/24 h.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: Percentage of participants
+   Results:
+      Results:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 25
+
+7. SECONDARY OUTCOME: CE Phase: Clinical Benefit Rate (CBR)
+   Description: Clinical benefit rate was defined as the percentage of participants with a confirmed minimal response (MR) or better according to the IMWG Response Criteria. MR is \>= 25% but \< 49% reduction of serum M-protein and reduction in 24-hour urinary M-protein by 50-89%.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+8. SECONDARY OUTCOME: DE Phase: Percentage of Participants Achieving Stringent Complete Response (SCR), Complete Response (CR), Very Good Partial Response (VGPR) and Partial Response (PR)
+   Description: Partial Response \[PR\], Very Good Partial Response \[VGPR\], Complete Response \[CR\], and stringent Complete Response \[sCR\] as assessed by the investigator per IMWG (2016). CR defined as negative immunofixation of serum and urine AND disappearance of any soft tissue plasmacytomas AND \<5% plasmacytomas in the bone marrow; sCR defined as CR as above PLUS normal serum free light-chain (FLC) assay ratio and absence of clonal cells in bone marrow by immunohistochemistry or immunofluorescence; VGPR defined as serum and urine M-component detectable by immunofixation but not on electrophoresis OR ≥ 90% reduction in serum M-component plus urine M-component \<100 mg/24 h; PR defined as ≥50% reduction of serum M-protein and reduction in 24-hour urinary M-protein by ≥90% or to \<200 mg/24 h.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: Percentage of participants
+   Results:
+      Stringent Complete Response (sCR):
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Complete Response (CR):
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Very Good Partial Response (VGPR):
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 25
+      Partial Response (PR):
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+
+9. SECONDARY OUTCOME: CE Phase: Percentage of Participants Achieving SCR, CR, VGPR and PR
+   Description: Partial Response \[PR\], Very Good Partial Response \[VGPR\], Complete Response \[CR\], and stringent Complete Response \[sCR\] as assessed by the investigator per IMWG (2016). CR = negative immunofixation of serum and urine AND disappearance of any soft tissue plasmacytomas AND \<5% plasmacytomas in the bone marrow; sCR=stringent complete response, CR as above PLUS normal serum free light-chain (FLC) assay ratio and absence of clonal cells in bone marrow by immunohistochemistry or immunofluorescence; VGPR = serum and urine M-component detectable by immunofixation but not on electrophoresis OR ≥ 90% reduction in serum M-component plus urine M-component \<100 mg/24 h; PR = ≥50% reduction of serum M-protein and reduction in 24-hour urinary M-protein by ≥90% or to \<200 mg/24 h.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+10. SECONDARY OUTCOME: DE Phase: Belantamab Mafodotin Concentrations for Plasma Antibody-Drug Conjugate (ADC)
+   Description: Blood samples were collected for PK analysis of belantamab mafodotin Antibody-Drug Conjugate (ADC) when administered intravenously in combination with dostarlimab.
+   Time Frame: Predose, end of infusion (EOI), 2, and 24 hours postdose on Cycle 1 Day 1, and at Cycle 1 Day 4, Day 8, Day 22, Predose and EOI on Cycle 2 Day 1, Cycle 4 Day 1, and at end of treatment (approximately 153 weeks)
+   Unit of Measure: Nanogram/ millilitre (ng/mL)
+   Results:
+      CYCLE 1 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.0
+      CYCLE 1 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 25300.0
+      CYCLE 1 DAY 1, 2 HOURS:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 26450.0
+      CYCLE 1 DAY 1, 24 HOURS:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 20400.0
+      CYCLE 1 DAY 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 9110.0
+      CYCLE 1 DAY 8:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 4830.0
+      CYCLE 1 DAY 22:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.0
+      CYCLE 2 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1295.0
+      CYCLE 2 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 41950.0
+      CYCLE 4 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.0
+      CYCLE 4 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 27600.0
+      END OF TREATMENT:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.0
+
+11. SECONDARY OUTCOME: DE Phase: Belantamab Mafodotin Concentrations for Plasma Total Antibody
+   Description: Blood samples were collected for PK analysis of belantamab mafodotin total antibody when administered intravenously in combination with dostarlimab.
+   Time Frame: Predose, end of infusion (EOI), 2, and 24 hours postdose on Cycle 1 Day 1, and at Cycle 1 Day 4, Day 8, Day 22, Predose and EOI on Cycle 2 Day 1, Cycle 4 Day 1, and at end of treatment (approximately 153 weeks)
+   Unit of Measure: ng/mL
+   Results:
+      CYCLE 1 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.0
+      CYCLE 1 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 31000.0
+      CYCLE 1 DAY 1, 2 HOURS:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 32400.0
+      CYCLE 1 DAY 1, 24 HOURS:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 21400.0
+      CYCLE 1 DAY 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 15000.0
+      CYCLE 1 DAY 8:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 8235.0
+      CYCLE 1 DAY 22:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1140.0
+      CYCLE 2 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 3625.0
+      CYCLE 2 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 45350.0
+      CYCLE 4 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 2800.0
+      CYCLE 4 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 48900.0
+      END OF TREATMENT:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 628.0
+
+12. SECONDARY OUTCOME: DE Phase: Belantamab Mafodotin Concentrations for Plasma Cys-mcMMAF
+   Description: Blood samples were collected for PK analysis of belantamab mafodotin cys-mcMMAF when administered intravenously in combination with dostarlimab.
+   Time Frame: Predose, end of infusion (EOI), 2, and 24 hours postdose on Cycle 1 Day 1, and at Cycle 1 Day 4, Day 8, Day 22, Predose and EOI on Cycle 2 Day 1, Cycle 4 Day 1, and at end of treatment (approximately 153 weeks)
+   Unit of Measure: ng/mL
+   Results:
+      CYCLE 1 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.00
+      CYCLE 1 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 218.00
+      CYCLE 1 DAY 1, 2 HOURS:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 376.00
+      CYCLE 1 DAY 1, 24 HOURS:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 750.00
+      CYCLE 1 DAY 4:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 549.50
+      CYCLE 1 DAY 8:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 170.90
+      CYCLE 1 DAY 22:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.00
+      CYCLE 2 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.00
+      CYCLE 2 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 555.00
+      CYCLE 4 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.00
+      CYCLE 4 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 469.00
+      END OF TREATMENT:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.00
+
+13. SECONDARY OUTCOME: CE Phase: Plasma Concentrations of Belantamab Mafodotin Antibody-Drug Conjugate (ADC)
+   Description: Blood samples were to be collected for PK analysis of Belantamab Mafodotin Antibody-Drug Conjugate (ADC).
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+14. SECONDARY OUTCOME: CE Phase: Plasma Concentration of Belantamab Mafodotin Plasma Total Antibody
+   Description: Blood samples were to be collected for PK analysis of Belantamab mafodotin plasma total antibody.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+15. SECONDARY OUTCOME: CE Phase: Plasma Concentrations of Belantamab Mafodotin Cys- Monomethyl Auristatin-F (Cys-mcMMAF)
+   Description: Blood samples were to be collected for PK analysis of Belantamab Mafodotin Cys- Monomethyl Auristatin-F (Cys-mcMMAF)
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+16. SECONDARY OUTCOME: DE Phase: Dostarlimab Concentration When Administered in Combination With Belantamab Mafodotin
+   Description: Blood samples were collected for PK analysis of dostarlimab when administered intravenously in combination with belantamab mafodotin.
+   Time Frame: Predose and end of infusion (EOI) on Cycle 1 Day 1, Cycle 2 Day 1, Cycle 5 Day 1, and at the end of treatment (approximately 153 weeks)
+   Unit of Measure: ng/mL
+   Results:
+      CYCLE 1 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0.0
+      CYCLE 1 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 52500.0
+      CYCLE 2 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 43550.0
+      CYCLE 2 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 224000.0
+      CYCLE 5 DAY 1, PRE-DOSE:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 532.0
+      CYCLE 5 DAY 1, END OF INFUSION:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 312000.0
+      END OF TREATMENT:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 35750.0
+
+17. SECONDARY OUTCOME: CE Phase: Dostarlimab Concentration When Administered in Combination With Belantamab Mafodotin
+   Description: Blood samples were to be collected for PK analysis of dostarlimab when administered intravenously in combination with belantamab mafodotin.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+18. SECONDARY OUTCOME: DE Phase: Number of Participants With Post-baseline Positive Anti-drug Antibodies (ADAs) Against Belantamab Mafodotin
+   Description: Serum samples were collected for the analysis of the presence of ADAs using validated immunoassays. All samples were tested in screening assay, and positive samples were further characterized for antibody titers.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: Participants
+   Results:
+      Results:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+
+19. SECONDARY OUTCOME: CE Phase: Number of Participants With Post-baseline Positive ADAs Against Belantamab Mafodotin
+   Description: Serum samples were to be collected for the analysis of the presence of ADAs using validated immunoassays. All samples were to be further tested in screening assay, and positive samples were further to be characterized for antibody titers.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+20. SECONDARY OUTCOME: DE Phase: Number of Participants With Post-baseline Positive ADAs Against Dostarlimab
+   Description: Serum samples were collected for the analysis of the presence of ADAs using validated immunoassays. All samples were tested in screening assay, and positive samples were further characterized for antibody titers.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: Participants
+   Results:
+      Results:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+
+21. SECONDARY OUTCOME: CE Phase: Number of Participants With Post-baseline Positive ADAs Against Dostarlimab
+   Description: Serum samples were to be collected for the analysis of the presence of ADAs using validated immunoassays. All samples were to be further tested in screening assay, and positive samples were further to be characterized for antibody titers.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+22. SECONDARY OUTCOME: DE Phase: Concentration of ADAs Against Dostarlimab When Administered in Combination With Belantamab Mafodotin
+   Description: Serum samples were collected for the analysis of the presence of ADAs using validated immunoassays. All samples were to be further tested in screening assay, and positive samples were further to be characterized for antibody titers.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+23. SECONDARY OUTCOME: CE Phase: Concentration of ADAs Against Dostarlimab When Administered in Combination With Belantamab Mafodotin
+   Description: Serum samples were to be collected for the analysis of the presence of ADAs using validated immunoassays. All samples were to be further tested in screening assay, and positive samples were further to be characterized for antibody titers.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+24. SECONDARY OUTCOME: DE Phase: Concentration of ADAs Against Belantamab Mafodotin
+   Description: Serum samples were collected for the analysis of the presence of ADAs using validated immunoassays. All samples were to be further tested in screening assay, and positive samples were further to be characterized for antibody titers.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: ng/mL
+   Results:
+      Results:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: NA
+
+25. SECONDARY OUTCOME: CE Phase: Concentration of ADAs Against Belantamab Mafodotin
+   Description: Serum samples were to be collected for the analysis of the presence of ADAs using validated immunoassays. All samples were to be further tested in screening assay, and positive samples were further to be characterized for antibody titers.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+26. SECONDARY OUTCOME: DE Phase: Number of Participants With Adverse Events of Special Interest (AESI)
+   Description: An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product. Adverse events of special interest (AESIs) were collected.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: Participants
+   Results:
+      Results:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 3
+
+27. SECONDARY OUTCOME: CE Phase: Number of Participants With Adverse Events of Special Interest (AESI)
+   Description: An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product. Adverse events of special interest (AESIs) were to be collected.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+28. SECONDARY OUTCOME: DE Phase: Number of Participants With Any Corneal Event by Maximum Grade as Per CTCAE Grade
+   Description: The corneal events were graded according to CTCAE version 5. Grade 1: mild; Grade 2: moderate; Grade 3: severe or medically significant. Higher grade indicates greater severity and an increase in CTCAE grade was defined relative to the Baseline grade. Results are presented for number of participants with any corneal events by maximum grade as per CTCAE grade.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: Participants
+   Results:
+      Grade 1:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1
+      Grade 2:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+      Grade 3:
+        1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 0
+
+29. SECONDARY OUTCOME: CE Phase: Number of Participants With Any Corneal Events by Maximum Grade as Per CTCAE Grade
+   Description: The corneal events were to be graded according to CTCAE version 5. Grade 1: mild; Grade 2: moderate; Grade 3: severe or medically significant. Higher grade indicates greater severity and an increase in CTCAE grade was defined relative to the Baseline grade. Corneal Events were to be examined.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+30. SECONDARY OUTCOME: CE Phase: Progression-free Survival (PFS)
+   Description: PFS is defined as the time from randomization until the earliest date of confirmed progressive disease (PD) per IMWG, or death due to any cause.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+31. SECONDARY OUTCOME: CE Phase: Duration of Response (DoR)
+   Description: DoR is defined as the time from first documented evidence or PR or better until progressive disease per IMWG or death due to progressive disease among participants who achieve confirmed partial response or better.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+32. SECONDARY OUTCOME: CE Phase: Time to Response (TTR)
+   Description: TTR is defined as the time between the date of randomization and the first documented evidence of response (PR or better), among participants who achieve a response (confirmed PR or better).
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+33. SECONDARY OUTCOME: CE Phase: Overall Survival (OS)
+   Description: OS is defined as the time from randomization until death due to any cause.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+34. SECONDARY OUTCOME: CE Phase: Number of Participants With AEs and SAEs
+   Description: An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product. SAE is defined as any untoward medical occurrence that; results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in disability/incapacity, is a congenital anomaly/birth defect, other situations judged by physician, is associated with liver injury and impaired liver function. AEs and SAEs were to be coded using the Medical Dictionary for Regulatory Activities (MedDRA) coding system.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+35. SECONDARY OUTCOME: CE Phase: Number of Participants With AEs Leading to Discontinuation
+   Description: An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of a medicinal product, whether or not considered related to the medicinal product. Number of participants with AEs leading to discontinuation were to be evaluated.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+36. SECONDARY OUTCOME: CE Phase: Number of Participants With Dose Reduction or Delay
+   Description: Number of participants with dose reduction or delay were to be evaluated.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+37. SECONDARY OUTCOME: CE Phase: Number of Participants With Clinically Significant Changes in Hematology Lab Parameters
+   Description: Blood samples were to be collected for the analysis of following hematology parameters: eosinophils, anemia, hemoglobin increased, lymphocyte count decreased, lymphocyte count increased, neutrophil count decreased, platelet count decreased, leukocytosis and white blood cell decreased. The laboratory parameters were to be graded according to Common Terminology Criteria for Adverse Events (CTCAE) version 5. Grade 1 (G1): mild; Grade 2 (G2): moderate; Grade 3 (G3): severe or medically significant. Higher grade indicates greater severity and an increase in CTCAE grade was defined relative to the Baseline grade.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+38. SECONDARY OUTCOME: CE Phase: Number of Participants With Clinically Significant Changes in Clinical Chemistry Lab Parameters
+   Description: Blood samples were to be collected for the analysis of following chemistry parameters: Hypoglycemia, hypoalbuminemia, alkaline phosphatase (ALP) increased, alanine aminotransferase (ALT) increased, aspartate aminotransferase (AST) increased, blood bilirubin increased, creatine kinase (CPK) increased, creatinine increased, gamma glutamyl transferase (GGT) increased, hyperkalemia, blood lactate dehydrogenase (LDH) increased, hypermagnesemia, hypomagnesemia, hypernatremia, hypercalcemia, hypocalcemia and chronic kidney disease. The laboratory parameters were to be graded according to CTCAE version 5. G1: mild; G2: moderate; G3: severe or medically significant. Higher grade indicates greater severity and an increase in CTCAE grade was defined relative to the Baseline grade.
+   Time Frame: Up to 153 weeks
+   Unit of Measure: 
+
+=== ADVERSE EVENTS SUMMARY ===
+Time Frame: All cause mortality, non-serious adverse events (Non-SAEs) and serious adverse events (SAEs) were collected maximum up to 153 weeks.
+Description: Safety set included all participants who received at least 1 dose of any component of the combination therapy.
+
+Group: 1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab
+  Deaths: 2/4 participants (50.0%)
+  Serious Adverse Events: 2/4 participants (50.0%)
+  Other Adverse Events: 4/4 participants (100.0%)
+
+Top Serious Adverse Events:
+  Pyrexia (General disorders):
+    1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1/4 (25.0%)
+  Hypercalcaemia (Metabolism and nutrition disorders):
+    1.9 mg/kg Belantamab Mafodotin + 500mg Dostarlimab: 1/4 (25.0%)
+
+Based on the above detailed information, especially focusing on the statistical significance of outcomes, p-values, confidence intervals, and any adverse events, classify this trial as 1 (success), 0 (failure), or -1 (indeterminate). Return ONLY the classification number.
